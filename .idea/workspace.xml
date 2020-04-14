@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13a66e1c-c3f9-476a-b807-76a2f6a596e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Users.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DBConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DBConnectionTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +48,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.excludes" />
   </component>
@@ -59,8 +60,11 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Siedlar\IdeaProjects\Hibernate-Tutorial\src\main\resources" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.DBConnectionTest.checkTheConnectionTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Hibernate-Tutorial" />
@@ -80,8 +84,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DBConnectionTest.checkTheConnectionTest" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.DBConnectionTest.checkTheConnectionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -111,6 +115,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="392" y="216" key="#Project_Structure" timestamp="1586879240658">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="392" y="216" key="#Project_Structure/0.0.1680.1010@0.0.1680.1010" timestamp="1586879240658" />
     <state x="254" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586877848940">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -123,22 +131,22 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="605" y="242" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1586878683429" />
-    <state width="1339" height="175" key="GridCell.Tab.0.bottom" timestamp="1586878070076">
+    <state width="1339" height="175" key="GridCell.Tab.0.bottom" timestamp="1586879949000">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1339" height="175" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1586878070076" />
-    <state width="1339" height="175" key="GridCell.Tab.0.center" timestamp="1586878070076">
+    <state width="1339" height="175" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1586879949000" />
+    <state width="1339" height="175" key="GridCell.Tab.0.center" timestamp="1586879949000">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1339" height="175" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1586878070076" />
-    <state width="1339" height="175" key="GridCell.Tab.0.left" timestamp="1586878070076">
+    <state width="1339" height="175" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1586879949000" />
+    <state width="1339" height="175" key="GridCell.Tab.0.left" timestamp="1586879948999">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1339" height="175" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1586878070076" />
-    <state width="1339" height="175" key="GridCell.Tab.0.right" timestamp="1586878070076">
+    <state width="1339" height="175" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1586879948999" />
+    <state width="1339" height="175" key="GridCell.Tab.0.right" timestamp="1586879949000">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1339" height="175" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1586878070076" />
+    <state width="1339" height="175" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1586879949000" />
     <state x="280" y="133" key="SettingsEditor" timestamp="1586875913892">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
