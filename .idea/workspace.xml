@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13a66e1c-c3f9-476a-b807-76a2f6a596e6" name="Default Changelist" comment="" />
+    <list default="true" id="13a66e1c-c3f9-476a-b807-76a2f6a596e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Hibernate-Tutorial" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -15,12 +36,54 @@
     </option>
   </component>
   <component name="ProjectId" id="1aXJFC44KPJrpwEzHxUCDtLCvuF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.excludes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DBConnectionTest.checkTheConnectionTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Hibernate-Tutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DBConnectionTest.checkTheConnectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hibernate-Tutorial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DBConnectionTest" />
+      <option name="METHOD_NAME" value="checkTheConnectionTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DBConnectionTest.checkTheConnectionTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -48,9 +111,45 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="254" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586877848940">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="254" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1586877848940" />
+    <state x="201" y="295" width="1199" height="524" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1586877963459">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="201" y="295" width="1199" height="524" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1586877963459" />
+    <state x="605" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1586878683429">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="605" y="242" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1586878683429" />
+    <state width="1339" height="175" key="GridCell.Tab.0.bottom" timestamp="1586878070076">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1339" height="175" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1586878070076" />
+    <state width="1339" height="175" key="GridCell.Tab.0.center" timestamp="1586878070076">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1339" height="175" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1586878070076" />
+    <state width="1339" height="175" key="GridCell.Tab.0.left" timestamp="1586878070076">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1339" height="175" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1586878070076" />
+    <state width="1339" height="175" key="GridCell.Tab.0.right" timestamp="1586878070076">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1339" height="175" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1586878070076" />
     <state x="280" y="133" key="SettingsEditor" timestamp="1586875913892">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="280" y="133" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1586875913892" />
+    <state x="571" y="276" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586877436176">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="571" y="276" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1586877436176" />
+    <state x="463" y="331" width="672" height="678" key="search.everywhere.popup" timestamp="1586878285295">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="463" y="331" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1586878285295" />
   </component>
 </project>
